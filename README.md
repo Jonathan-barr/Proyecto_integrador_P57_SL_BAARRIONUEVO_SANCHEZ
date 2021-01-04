@@ -4,7 +4,32 @@
 
 ## Integrantes
 
-![](https://cdn.discordapp.com/attachments/787548699936030750/795749901387431976/LOGO-UPS.png)
+<table>
+	<thead>
+		<td>
+			<b>Jonathan Barrionuevo </b>
+		</td>
+		<td>
+			<b>Carolina Sánchez </b>
+		</td>
+	</thead>
+	<tr>
+		<td>
+			<img width="289" alt="code-one" src="https://cdn.discordapp.com/attachments/787548699936030750/795750887619559464/pp.png">
+		</td>
+		<td>
+			<img width="289" alt="render-one" src="https://cdn.discordapp.com/attachments/787548699936030750/795751528694022214/1c2a0177-2e5b-45d8-92a9-55c8a5ac3c30.png">
+		</td>
+	</tr>
+  <tr>
+		<td>
+			<img width="289" alt="code-one" src="https://cdn.discordapp.com/attachments/787548699936030750/795749901387431976/LOGO-UPS.png">
+		</td>
+  </tr>
+  
+ 
+
+</table>
 * Jonathan Barrionuevo
 * Carolina Sánchez
 ## Tema 
