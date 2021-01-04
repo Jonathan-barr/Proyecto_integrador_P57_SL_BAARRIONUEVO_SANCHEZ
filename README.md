@@ -2,7 +2,8 @@
 Repositorio Destinado al almacenamiento de la documentación del proyecto Integrador de la Universidad Politécnica Salesiana del Ecuador
 
 #Integrantes
-# Jonathan Barrionuevo
-# Carolina Sánchez
+Jonathan Barrionuevo
+Carolina Sánchez
 
-# Tema: Programa de generación de Gráficas estadísticas 
+## Tema 
+Programa de generación de Gráficas estadísticas 
