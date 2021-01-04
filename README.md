@@ -6,7 +6,6 @@
 
 ![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
 * Jonathan Barrionuevo
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
 * Carolina Sánchez
 ## Tema 
    * Desarrollo de una plataforma web que permita generar informes a través del uso de Pentaho Report Designer y la generación de gráficas
