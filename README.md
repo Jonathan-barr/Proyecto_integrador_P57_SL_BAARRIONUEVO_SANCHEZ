@@ -30,8 +30,8 @@
  
 
 </table>
-* Jonathan Barrionuevo
-* Carolina Sánchez
+
+
 ## Tema 
    * Desarrollo de una plataforma web que permita generar informes a través del uso de Pentaho Report Designer y la generación de gráficas
    # Materias a desarrollar
