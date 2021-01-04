@@ -4,7 +4,7 @@
 
 ## Integrantes
 
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+![](https://cdn.discordapp.com/attachments/787548699936030750/795749901387431976/LOGO-UPS.png)
 * Jonathan Barrionuevo
 * Carolina Sánchez
 ## Tema 
