@@ -8,10 +8,11 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.jboss.ide.eclipse.as.core.server.runtime.runtimeTarget/WildFly 12.0 Runtime">
 		<attributes>
-			<attribute name="owner.project.facets" value="jst.web"/>
+			<attribute name="owner.project.facets" value="jst.jsf;jst.web"/>
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/Usuario/git/Proyecto_integrador_P57_SL_BAARRIONUEVO_SANCHEZ/Netflix_BS_v_1/WebContent/WEB-INF/lib/primefaces-8.0.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
