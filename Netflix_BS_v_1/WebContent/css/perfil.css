@@ -1,0 +1,94 @@
+@charset "ISO-8859-1";
+
+.profile {
+	
+	font-family:'Nunito', sans-serif;
+	text-align: center;
+	max-width: 250px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+	padding: 20px;
+}
+
+.profile__image{
+	
+	width: 150px;
+	height: 150px;
+	object-fit: cover;
+	border-radius: 50%;
+	margin: 0 auto 20px auto;
+	display: block;
+}
+
+.profile__name {
+	
+	font-size: 1.2em;
+	font-weight: bold;
+}
+
+.profile__title {
+	margin-bottom: 20px;
+}
+
+.profile__detail{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 0.9em;
+}
+
+.row__profile{
+	
+	padding-top:50px;
+	padding-left:85px;
+	padding-bottom:45px;
+}
+
+/* Create four equal columns that floats next to each other */
+.column__1 {
+  float: left;
+  width: 25%;
+  padding: 2px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+ 
+/* Clear floats after the columns */
+.row__profile:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.title__1 {
+	padding-top: 5px;
+	font-family:'Nunito', sans-serif;
+}
+
+.sub_title__1{
+	padding-bottom: 30px;
+	font-family:'Nunito', sans-serif;
+}
+
+
+.column__2 {
+  padding: 10px;
+  float: left;
+  width: 30%;
+  
+}
+
+
+.title__2 {
+	padding-top: 15px;
+	font-family:'Nunito', sans-serif;
+}
+
+.sub_title__2{
+	padding-bottom: -10px;
+	font-family:'Nunito', sans-serif;
+}
+
+.profile.test_1{
+	font-style:bold;
+}
+
+
