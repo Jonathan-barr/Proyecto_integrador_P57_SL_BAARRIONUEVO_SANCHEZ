@@ -41,6 +41,15 @@
  
 ## Licencia
 
+----
+[![N|Solid](https://aprendizajecooperativointef.files.wordpress.com/2019/07/cc-by-nc-sa-4.0.jpg)](https://creativecommons.org/licenses/by-nc-sa/3.0/ec/)
 
+
+
+**Software Libre - Usalo con Responsabilidad!**
+
+
+## version
+- V 1.1.1
 
 
